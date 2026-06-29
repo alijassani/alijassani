@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ali Mousa 👋
 
-<!--
-**alijassani/alijassani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- AI and Software Engineering enthusiast
+- Interested in Generative AI, Full-Stack Development and Machine Learning
+- Experienced in AI data annotation and quality assurance
+- Passionate about building impactful AI products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Python
+- JavaScript
+- TypeScript
+- React
+- HTML/CSS
+- Git & GitHub
+- SQL
+- Data Analysis
+
+## Current Projects
+
+- AI Dataset Quality Tool
+- Learning Full-Stack Development
+- Exploring Generative AI applications
+
+## Contact
+
+📧 Email: alijassani48@gmail.com
